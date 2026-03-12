@@ -1,0 +1,11 @@
+# Robots.txt for OMVVSS NGO
+User-agent: *
+Allow: /
+
+# Disallow private or administrative folders (example paths)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /cgi-bin/
+
+# Path to your Sitemap
+Sitemap: https://www.omvvss.org/sitemap.xml
